@@ -1,0 +1,68 @@
+[
+    {
+        "image": "https://i.ibb.co/x72WbXC/blockworks-10-years-of-minecraft-thumbnail-70e8938f42f472af-800.jpg",
+        "zipUrl": "https://mc-addons.com/index.php?do=download&id=17440",
+        "title": "Blockworks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
+        "stars": "4",
+        "ratingNum": "4",
+        "itemNumDownload": "1.3K",
+        "itemNumViews": "11K",
+        "itemSize": "5.93 Mb"
+    },
+    {
+        "image": "https://i.ibb.co/SP5kP0S/dodo-studios-rising-lava-parkour-thumbnail-05370010942d6099-800.jpg",
+        "zipUrl": "https://legacy.curseforge.com/minecraft-bedrock/addons/animated-rgb-gui/download/5643220/file",
+        "title": "Rising lava parkour",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
+        "stars": "3",
+        "ratingNum": "3",
+        "itemNumDownload": "329",
+        "itemNumViews": "726",
+        "itemSize": "1.31 Mb"
+    },
+     {
+        "image": "https://i.ibb.co/nQDMw2D/gamemode-one-spellrune-thumbnail-a466beaec1a5581e-800.jpg",
+        "zipUrl": "https://legacy.curseforge.com/minecraft-bedrock/addons/system-dynamic-lights/download/5691747/file",
+        "title": "Spellrune",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
+        "stars": "5",
+        "ratingNum": "5",
+        "itemNumDownload": "220",
+        "itemNumViews": "813",
+        "itemSize": "8.46 Mb"
+    },
+     {
+        "image": "https://i.ibb.co/g4jxmvZ/imagiverse-marine-biologist-roleplay-thumbnail-2a877805f1a8decf-800.jpg",
+        "zipUrl": "https://legacy.curseforge.com/minecraft-bedrock/addons/raiyons-java-combat-addon/download/5772876/file",
+        "title": "Marine Biologist",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!",
+        "stars": "3",
+        "ratingNum": "3",
+        "itemNumDownload": "891",
+        "itemNumViews": "2.4K",
+        "itemSize": "18.1 Mb"
+    },
+     {
+        "image": "https://i.ibb.co/6g0GHfR/jigarbov-productions-abstraction-minecon-earth-thumbnail-a199d8499a9066d3-800.jpg",
+        "zipUrl": "https://legacy.curseforge.com/minecraft-bedrock/addons/raiyons-dynamic-light-addon/download/5773500/file",
+        "title": "MINECON EARTH",
+        "description": "Featuring the logos that were just begging to be played on, MINECON EARTH has floating landmasses with a surprising amount of hidden secrets and challenges.",
+        "stars": "2",
+        "ratingNum": "2",
+        "itemNumDownload": "29",
+        "itemNumViews": "226",
+        "itemSize": "10.06 Mb" 
+    },
+     {
+        "image": "https://i.ibb.co/r3ZSff9/minecraft-1st-birthday-skin-pack-thumbnail-9b941f32972d5600-800.jpg",
+        "zipUrl": "https://legacy.curseforge.com/minecraft-bedrock/addons/raiyons-tree-capitator-addon/download/5630650/file",
+        "title": "Birthday Skin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna tempus, faucibus lorem nec, pretium dolor. Integer nec turpis nibh. Ut fringilla tortor eget purus efficitur!!",
+        "stars": "4",
+        "ratingNum": "4",
+        "itemNumDownload": "83",
+        "itemNumViews": "919",
+        "itemSize": "85.93 Mb"
+    }
+]
