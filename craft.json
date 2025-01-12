@@ -12,14 +12,14 @@
 
     "screens"            :  "",
 
-    "ShowAds": "true",
+    "ShowAds": "false",
 
-    "interence" : "true",
+    "interence" : "false",
     
-    "activeautointer" : "true",
+    "activeautointer" : "false",
     
     "TimeBetweenInters" : "60",
     
-    "modLink" : "https://archive.org/download/b10_20240120/b10.zip"
+    "modLink" : ""
 
 }
