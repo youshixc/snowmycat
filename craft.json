@@ -1,0 +1,25 @@
+{
+
+    "loadingtime" : "5",
+    
+    "activateVideo" : "true",
+    
+    "testmode"           :  "false",
+
+    "checkgip" : "false",
+    
+    "isp" : "",
+
+    "screens"            :  "",
+
+    "ShowAds": "true",
+
+    "interence" : "true",
+    
+    "activeautointer" : "true",
+    
+    "TimeBetweenInters" : "60",
+    
+    "modLink" : "https://archive.org/download/b10_20240120/b10.zip"
+
+}
