@@ -1,6 +1,6 @@
 {
 
-    "loadingtime" : "5",
+    "loadingtime" : "3",
     
     "activateVideo" : "true",
     
@@ -12,11 +12,11 @@
 
     "screens"            :  "",
 
-    "ShowAds": "false",
+    "ShowAds": "true",
 
-    "interence" : "false",
+    "interence" : "true",
     
-    "activeautointer" : "false",
+    "activeautointer" : "true",
     
     "TimeBetweenInters" : "60",
     
